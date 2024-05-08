@@ -1,4 +1,4 @@
-# Begiiner_DevSecOps_Professional
+# Beginner_DevSecOps_Professional
 This repository contains materials and resources for beginners to understand DevSecOps. It is designed to provide a comprehensive understanding of DevSecOps principles, practices, and tools. It covers topics such as DevOps fundamentals, secure SDLC, CI/CD pipelines, infrastructure as code, compliance as code, and vulnerability management.
 
 The materials provided emphasizes practical skills and real-world applications, preparing participants to implement DevSecOps practices in their organizations. 
